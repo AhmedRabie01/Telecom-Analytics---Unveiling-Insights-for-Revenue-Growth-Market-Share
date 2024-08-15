@@ -21,6 +21,5 @@ This portfolio aims to provide telecom industry stakeholders with actionable ins
 Through this portfolio, I offer telecom businesses a comprehensive analysis enabling informed decisions, improved market strategies, and enhanced customer engagement, fostering growth and sustainability.
 
 ### Dashboard 
-[<iframe title="Telecom Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTEwNGUyMDItZTM3Yi00ODZhLWEyOGItNDgzNmFjN2I2NDQ1IiwidCI6ImM5ZjRkOWY1LTQwNWMtNDU2My05MzZhLTI5ZDFhNDdmOTMxMiJ9" frameborder="0" allowFullScreen="true"></iframe>
-](https://app.powerbi.com/view?r=eyJrIjoiOTEwNGUyMDItZTM3Yi00ODZhLWEyOGItNDgzNmFjN2I2NDQ1IiwidCI6ImM5ZjRkOWY1LTQwNWMtNDU2My05MzZhLTI5ZDFhNDdmOTMxMiJ9)
+https://app.powerbi.com/view?r=eyJrIjoiOTEwNGUyMDItZTM3Yi00ODZhLWEyOGItNDgzNmFjN2I2NDQ1IiwidCI6ImM5ZjRkOWY1LTQwNWMtNDU2My05MzZhLTI5ZDFhNDdmOTMxMiJ9
 ![Telecome Analysis](https://github.com/AhmedRabie01/Telecom-Analytics-Unveiling-Insights-for-Revenue-Growth-Market-Share/blob/main/photo/2023-11-26%20(6).png?raw=true)
